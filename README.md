@@ -4,5 +4,7 @@ Web port of the Sobosuba demo
 
 Single file only, source not included. Demo only
 
+Buy the real game [here](https://store.steampowered.com/app/1946560/sobosuba/)
+
 ## Takedown Requests
 Email me at kn3tzer@gmail.com for Sobosuba related takedowns or requests. I'll respond within 3 days, probably under 1 day.
